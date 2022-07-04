@@ -1,12 +1,12 @@
 ---
-title: How Optimism Works
-lang: en-US
+标题: Optimism 如何工作
+语言: zh-CN
 ---
 
-## Introduction
+## 介绍
 
-Hello!
-By the time you've finished reading this page you should have a foundational understanding of how Optimism makes Ethereum transactions cheaper and faster, the approach that Optimism is taking to scaling both Ethereum and Ethereum's values, and why Optimism is the best place to build your next Ethereum-native app.
+哈喽！
+当您阅读完此页，您将对Optimism如何使Ethereum交易更便宜、更快，Optimism采用什么方法扩展Ethereum和Ethereum价值，以及为什么Optimism是您搭建下一个Ethereum原生应用的最好平台有一个基础理解。
 
 We've tried to make this guide as comprehensive as possible while still keeping the content accessible to most readers.
 Some content on this page is geared towards readers with a technical background but should still be comprehensible to those with a basic understanding of how blockchains work.
